@@ -8,3 +8,15 @@ wheels/
 
 # Virtual environments
 .venv
+.junie
+
+
+# data is private for this project
+data/*
+
+CLAUDE.md
+# data, IDE, OS files
+notebooks/*.csv
+.ipynb_checkpoints/
+.idea/
+.DS_Store
